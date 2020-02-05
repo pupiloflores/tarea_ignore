@@ -1,0 +1,22 @@
+#texto
+/Archivos/conexion.txt
+
+/Archivos/A/Sub 2/acciones.meta
+/Archivos/B/Sub 1/calculadora.meta
+
+/Archivos/C/Sub 2/Apartado/ordenar.class
+
+/Archivos/B/Sub 1/dato 4.zzz
+/Archivos/B/Sub 2/dato 2.zzz
+
+/Archivos/B/Sub 2/Datos
+
+
+
+
+
+
+
+/Archivos/A/Sub 1/Estado/*
+
+!/Archivos/A/Sub 1/Estado/feliz.html
